@@ -1,0 +1,12 @@
+[   INFO] Output Directory: /Users/sangwanlee/Desktop/Project/test
+Scan Result: 'True'
+
+[   INFO] |---Number of files detected with SCANOSS: 1
+[  DEBUG] ITEM COUNT:1
+[   INFO] [FOSSLIGHT_SOURCE] Output file:/Users/sangwanlee/Desktop/Project/test/fosslight_report_src_230519_0117.xlsx
+[   INFO] [FOSSLIGHT_SOURCE] OS: Darwin 22.4.0
+Path to analyze: /Users/sangwanlee/Desktop/Project/test
+Python version: 3
+Scan Result: 'True'
+Tool Info: fosslight_source v1.6.26
+
